@@ -18,7 +18,7 @@
 
 ## 安裝步驟
 ### Token 取得
-1. 取得 OpenAI 給的 API Token：
+1. 取得 OpenAI 給的 API Token：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
     1. [OpenAI](https://beta.openai.com/) 平台中註冊/登入帳號
     2. 右上方有一個頭像，點入後選擇 `View API keys`
     3. 點選中間的 `Create new secret key` -> 生成後即為 `OPENAI_API` （稍晚會用到）
